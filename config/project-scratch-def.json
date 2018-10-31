@@ -1,0 +1,8 @@
+{
+    "orgName": "swerner-10-15-18c",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": [ "S1DesktopEnabled" ],
+        "disabled" : [ "S1EncryptedStoragePref2" ]
+    }
+}
